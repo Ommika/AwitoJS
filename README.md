@@ -1,0 +1,2 @@
+# AwitoJS
+JavaScript programming practice
